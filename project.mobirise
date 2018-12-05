@@ -95,7 +95,7 @@
             }
           },
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": false,
             "hideButtons": true,
             "sticky": true,
@@ -107,14 +107,15 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Who we are</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Vision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Mission</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">One to one counceling</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">For class 9-10</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">For class 11-12</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Study @ Central\n<br>university admission\n<br>programs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Overseas application\n<br>programs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Study @Institutes of\n<br>eminence/National\n<br>importance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Skill developments\n<br>prgrms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Study @State\n<br>universities/colleges</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">For graduates</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Career mentoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Creer Assessments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Personalized career reports</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Study effectiveness counceling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Career publications</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">School/Colleges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Professionals</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Testimonials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Career dictionary</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html#content1-13\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"tel:+917592007679\">Call Us Now</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Who we are</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Vision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Mission</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">For class 9-10</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">For class 11-12</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Study @ Central \n<br>university admission \n<br>programs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Overseas application \n<br>programs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Study @Institutes of \n<br>eminence/National \n<br>importance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Skill developments \n<br>prgrms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Study @State \n<br>universities/colleges</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">For graduates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Career mentoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Creer Assessments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Personalized career reports</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Study effectiveness counceling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Career publications</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">School/Colleges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Professionals</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Testimonials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Career dictionary</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"tel:+917592007679\">Call Us Now</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/1542449161108-hig-logo-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -141,27 +142,27 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/neonbrand-426918-unsplash-2000x1244.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br>Quote 1",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<br><br><br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/priscilla-du-preez-623040-unsplash-2000x1333.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br>Your Bright Future<br>is Our Mission",
+                "title": "<br>Your Bright Future\r<div>is Our Mission</div>",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "<br><br><br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:+917592007679\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Call Us Now</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/priscilla-du-preez-623040-unsplash-2000x1333.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "<br><span style=\"font-weight: normal;\">Your </span>Bright Future<br><span style=\"font-weight: normal;\">is Our </span>Mission",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<br><br><br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -170,30 +171,30 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/vasily-koloda-620886-unsplash-2000x1333.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br>Your Bright Future",
+                "title": "<br>Your Bright Future\r<div>is Our Mission</div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<br><br><br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Call Us Now</a>"
               },
               {
-                "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bags-best-friends-daylight-1516440-2000x1324.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br>Quote 4",
+                "title": "<br>Your Bright Future\r<div>is Our Mission</div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<br><br><br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Call Us Now</a>"
               }
             ]
           },
@@ -226,7 +227,7 @@
           "_anchor": "content1-t",
           "_styles": {
             "P": {
-              "font-size": "25px",
+              "font-size": "20px",
               "color": "#232323",
               "font-family": "'Raleway', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
@@ -240,8 +241,8 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "0",
+            "paddingBottom": "1",
             "columns": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -269,18 +270,24 @@
           },
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1542449161108-hig-logo-600x600.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/1542449161108-hig-logo-600x600.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             }
           },
           "media4": {
@@ -461,7 +468,7 @@
             }
           },
           "text1": "<p><strong>Address</strong></p><p><span style=\"font-size: 0.875rem;\">Taliparamba, Kannur</span></p><p><br><br>\n<strong>Contacts</strong><br>\nEmail: higmentors@gmail.com<br>\nPhone : &nbsp;+91 9747 270 222</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp;+91 9947 25 24 34<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;: +91 9633975708<br><br></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Social</strong></p><ul><li><a class=\"text-white\" href=\"https://www.facebook.com/higmentors\">Facebook</a></li><li><b><a href=\"https://www.instagram.com/hig_official_\" target=\"_blank\">Instagram</a></b></li><li>WhatsApp</li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Social</strong></p><ul><li><a class=\"text-white\" href=\"https://www.facebook.com/higmentors\"><b>Facebook</b></a></li><li><b><a href=\"https://www.instagram.com/hig_official_\" target=\"_blank\">Instagram</a></b></li><li><a href=\"https://wa.me/+919633975708\"><b>WhatsApp</b></a></li></ul>",
           "_tags": [
             "Theme"
           ],
@@ -533,14 +540,14 @@
           "_params": {
             "showTitle": true,
             "showText": false,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": false,
             "contentAlign": "center",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/priscilla-du-preez-623040-unsplash-2000x1333.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
+            "bgColorRadio": true,
+            "bgColor": "#232323",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -549,9 +556,9 @@
             "overlayColor": "#000",
             "overlayOpacity": "0.6"
           },
-          "title": "Comming Soon",
+          "title": "This page is under construction",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Home Page</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:+917592007679\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Call Us Now</a>",
           "_tags": [
             "Theme"
           ],
