@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 54,
+    "uniqCompNum": 60,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -107,7 +107,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Who we are</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Vision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Mission</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">For class 9-10</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">For class 11-12</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Study @ Central \n<br>university admission \n<br>programs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Overseas application \n<br>programs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Study @Institutes of \n<br>eminence/National \n<br>importance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Skill developments \n<br>prgrms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Study @State \n<br>universities/colleges</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">For graduates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Career mentoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Creer Assessments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Personalized career reports</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Study effectiveness counceling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Career publications</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">School/Colleges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Professionals</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Testimonials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Career dictionary</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"tel:+917592007679\">Call Us Now</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Who we are</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Vision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Mission</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">For class 9-10</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">For class 11-12</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Study @ Central \n<br>university admission \n<br>programs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Overseas application \n<br>programs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Study @Institutes of \n<br>eminence/National \n<br>importance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Skill developments \n<br>prgrms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Study @State \n<br>universities/colleges</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">For graduates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Career mentoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Creer Assessments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Personalized career reports</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Study effectiveness counceling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Career publications</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">School/Colleges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\">Professionals</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Testimonials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Career dictionary</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"tel:+917592007679\">Call Us Now</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -142,13 +142,13 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/neonbrand-426918-unsplash-2000x1244.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br>Your Bright Future\r<div>is Our Mission</div>",
+                "title": "<br>Your Bright Future\n<div>is Our Mission</div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<br><br><br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -162,39 +162,27 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br><span style=\"font-weight: normal;\">Your </span>Bright Future<br><span style=\"font-weight: normal;\">is Our </span>Mission",
+                "title": "<br><span style=\"font-weight: normal;\">Transform </span>Yourself<br><span style=\"font-weight: normal;\">Transform the </span>world",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<br><br><br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:+917592007679\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Call Us Now</a>  "
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:+917592007679\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Call Us Now</a>  ",
+                "overlayOpacity": "0.7"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/vasily-koloda-620886-unsplash-2000x1333.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br>Your Bright Future\r<div>is Our Mission</div>",
+                "title": "<br><span style=\"font-weight: normal;\">Know Your </span>Worth<span style=\"font-weight: normal;\">.</span><br><span style=\"font-weight: normal;\">Think </span>Big",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<br><br><br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Call Us Now</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bags-best-friends-daylight-1516440-2000x1324.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": false,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br>Your Bright Future\r<div>is Our Mission</div>",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "<br><br><br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Call Us Now</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Call Us Now</a>",
+                "overlayOpacity": "0.7"
               }
             ]
           },
@@ -207,7 +195,7 @@
           "_styles": {
             "H2": {
               "text-align": "center",
-              "color": "#fac51c",
+              "color": "#ffffff",
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
@@ -215,9 +203,9 @@
         },
         {
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#ffffff"
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgColor": "#fafafa"
           },
           "text": "<p><b>The times have changed, with the advancement of technologies, new opportunities are created worldwide .It is very important to seek\n</b></p><p><b>professional career guidance when you have to take vital decisions .Career counseling is an essential factor for guiding students towards a right\n</b></p><p><b>career path. Expert counseling in career will be helpful choosing a career goal, planning and give a direction to students for a better future\n</b></p><p><b>ahead.</b></p>",
           "_tags": [
@@ -259,7 +247,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1542449161108-hig-logo-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/neonbrand-426918-unsplash-600x373.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -270,7 +258,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1542449161108-hig-logo-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/vasily-koloda-620886-unsplash-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -281,7 +269,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/1542449161108-hig-logo-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/priscilla-du-preez-623040-unsplash-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -345,15 +333,14 @@
           "_anchor": "features3-1d"
         },
         {
-          "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "spacing": 0,
-            "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "filterBgColor": false,
-            "bgColor": "fff",
+            "bgColor": "#FFFFFF",
             "showText": false,
             "filter": false,
             "images": [
@@ -362,91 +349,65 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/39105892-312610479299442-7809141487848914944-n-960x720.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/39105892-312610479299442-7809141487848914944-n-960x720-800x600.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/42357856-332617880632035-1910237806416887808-n-832x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/42357856-332617880632035-1910237806416887808-n-832x960-800x923.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/44043007-340201643206992-427839486404067328-n-960x467.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/44043007-340201643206992-427839486404067328-n-960x467-800x389.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/44057298-340201556540334-5634833527112466432-n-960x640.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/44057298-340201556540334-5634833527112466432-n-960x640-800x533.jpg",
                 "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-20180717-wa0042-1080x1080.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20180717-wa0042-1080x1080-800x800.jpg",
                 "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "alt": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
+          "articleLayout": false,
+          "allItem": "All",
           "_tags": [
             "Theme"
           ],
-          "articleLayout": false,
-          "allItem": "All",
-          "_name": "gallery2",
-          "_anchor": "gallery2-1h"
+          "_name": "gallery1",
+          "_anchor": "gallery1-1n"
         },
         {
           "_params": {
@@ -467,8 +428,8 @@
               "stateDetails": ""
             }
           },
-          "text1": "<p><strong>Address</strong></p><p><span style=\"font-size: 0.875rem;\">Taliparamba, Kannur</span></p><p><br><br>\n<strong>Contacts</strong><br>\nEmail: higmentors@gmail.com<br>\nPhone : &nbsp;+91 9747 270 222</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp;+91 9947 25 24 34<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;: +91 9633975708<br><br></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Social</strong></p><ul><li><a class=\"text-white\" href=\"https://www.facebook.com/higmentors\"><b>Facebook</b></a></li><li><b><a href=\"https://www.instagram.com/hig_official_\" target=\"_blank\">Instagram</a></b></li><li><a href=\"https://wa.me/+919633975708\"><b>WhatsApp</b></a></li></ul>",
+          "text1": "<p><strong>Address</strong></p><p><span style=\"font-size: 0.875rem;\">Taliparamba, Kannur</span></p><p><br><br>\n<strong>Contacts</strong><br>\nEmail: higmentors@gmail.com<br>\nPhone : &nbsp;+91 7592007679</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp;+91 9810163896<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;: +91 9633975708&nbsp;&nbsp;&nbsp;&nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: +91 9747270222</p><p><br></p><p><br></p>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Social</strong></p><ul><li><a class=\"text-white\" href=\"https://www.facebook.com/higmentors\"><b>Facebook</b></a></li><li><b><a href=\"https://www.instagram.com/hig_official_\" target=\"_blank\" class=\"text-white\">Instagram</a></b></li><li><a href=\"https://wa.me/+919633975708\"><b>WhatsApp</b></a></li></ul>",
           "_tags": [
             "Theme"
           ],
