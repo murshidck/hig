@@ -195,7 +195,7 @@
           "_styles": {
             "H2": {
               "text-align": "center",
-              "color": "#ffffff",
+              "color": "#fac51c",
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
             }
