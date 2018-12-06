@@ -429,7 +429,7 @@
             }
           },
           "text1": "<p><strong>Address</strong></p><p><span style=\"font-size: 0.875rem;\">Taliparamba, Kannur</span></p><p><br><br>\n<strong>Contacts</strong><br>\nEmail: higmentors@gmail.com<br>\nPhone : &nbsp;+91 7592007679</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp;+91 9810163896<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;: +91 9633975708&nbsp;&nbsp;&nbsp;&nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: +91 9747270222</p><p><br></p><p><br></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Social</strong></p><ul><li><a class=\"text-white\" href=\"https://www.facebook.com/higmentors\"><b>Facebook</b></a></li><li><b><a href=\"https://www.instagram.com/hig_official_\" target=\"_blank\" class=\"text-white\">Instagram</a></b></li><li><a href=\"https://wa.me/+919633975708\"><b>WhatsApp</b></a></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Social</strong></p><ul><li><a class=\"text-white\" href=\"https://www.facebook.com/higmentors\">Facebook</a></li><li><a href=\"https://www.instagram.com/hig_official_\" target=\"_blank\" class=\"text-white\">Instagram</a></li><li><a href=\"https://wa.me/+919633975708\" class=\"text-white\">WhatsApp</a></li></ul>",
           "_tags": [
             "Theme"
           ],
