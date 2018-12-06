@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 64,
+    "uniqCompNum": 66,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -148,7 +148,7 @@
                 "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "<br>Your Bright Future\n<div>is Our Mission</div>",
+                "title": "<br><span style=\"font-weight: normal;\">Your Bright </span>Future\n<div><span style=\"font-weight: normal;\">is Our </span>Mission</div>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<br><br><br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
