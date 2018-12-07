@@ -422,15 +422,15 @@ h6,
   color: #ffffff;
 }
 #menu-1b .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #menu-1b .close-icon::before,
 #menu-1b .close-icon::after {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 #menu-1b .link,
 #menu-1b .dropdown-item {
-  color: #000000;
+  color: #ffffff;
 }
 #menu-1b .link {
   font-size: 0.95rem;
@@ -447,22 +447,22 @@ h6,
 }
 #menu-1b .link[aria-expanded="true"],
 #menu-1b .dropdown-menu {
-  background: #e6e6e6;
+  background: #087775;
 }
 #menu-1b .nav-dropdown-sm .link:focus,
 #menu-1b .nav-dropdown-sm .link:hover,
 #menu-1b .nav-dropdown-sm .dropdown-item:focus,
 #menu-1b .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
+  background: #0a9996!important;
 }
 #menu-1b .navbar,
 #menu-1b .nav-dropdown-sm,
 #menu-1b .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-1b .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
+  background: #0ba7a4;
 }
 #menu-1b .bg-color.transparent .link {
-  color: #000000;
+  color: #ffffff;
   transition: none;
 }
 #menu-1b .bg-color.transparent.opened .link {
@@ -478,8 +478,11 @@ h6,
 }
 #slider-16 H2 {
   text-align: center;
-  color: #fac51c;
+  color: #ffffff;
   font-family: 'Ubuntu', sans-serif;
+}
+#slider-16 DIV {
+  color: #ffffff;
 }
 #content1-t P {
   font-size: 20px;

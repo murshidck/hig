@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 66,
+    "uniqCompNum": 68,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -54,13 +54,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".link": {
               "font-size": "0.95rem"
@@ -72,16 +72,16 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#e6e6e6"
+              "background": "#087775"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#f7f7f7!important"
+              "background": "#0a9996!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#0ba7a4"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -100,11 +100,11 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
+            "transparent": true,
+            "bgColor": "#0ba7a4",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Who we are</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Vision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Mission</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">For class 9-10</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">For class 11-12</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Study @ Central \n<br>university admission \n<br>programs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Overseas application \n<br>programs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Study @Institutes of \n<br>eminence/National \n<br>importance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Skill developments \n<br>prgrms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Study @State \n<br>universities/colleges</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">For graduates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Career mentoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Creer Assessments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Personalized career reports</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Study effectiveness counceling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Career publications</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">School/Colleges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Professionals</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" target=\"_blank\">Testimonials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" target=\"_blank\">Career dictionary</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" target=\"_blank\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"tel:+917592007679\">Call Us Now</a></li>",
@@ -152,7 +152,9 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<br><br><br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:+917592007679\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Call Us Now</a> "
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:+917592007679\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Call Us Now</a> ",
+                "overlayOpacity": "0.9",
+                "overlayColor": "#232323"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/priscilla-du-preez-623040-unsplash-2000x1333.jpg",
@@ -167,7 +169,8 @@
                 "contentAlign": "center",
                 "text": "<br><br><br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:+917592007679\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Call Us Now</a>  ",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.8",
+                "overlayColor": "#000000"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/vasily-koloda-620886-unsplash-2000x1333.jpg",
@@ -182,7 +185,7 @@
                 "contentAlign": "center",
                 "text": "<br><br><br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Call Us Now</a>",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.8"
               }
             ]
           },
@@ -195,9 +198,12 @@
           "_styles": {
             "H2": {
               "text-align": "center",
-              "color": "#fac51c",
+              "color": "#ffffff",
               "font-family": "'Ubuntu', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "DIV": {
+              "color": "#ffffff"
             }
           }
         },
@@ -420,21 +426,44 @@
             "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8,
-            "googleMap": {
-              "address": "HiG Mentors,  KAVIL COMPLEX, HIGHWAY, Taliparamba",
-              "placeId": "ChIJ6-o5vxc_pDsR3Wv6o5pYsFM",
-              "state": "ok",
-              "stateDetails": ""
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
+          "text1": "<strong>Address</strong><br><strong><br></strong>Taliparamba, Kannur<br><br><br>\n<strong>Contacts</strong><br>Email: higmentors@gmail.com\n<br>Phone :  +91 7592007679\n<br>             :  +91 9810163896\n<br>             : +91 9633975708    \n<br>             : +91 9747270222<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Social</strong></p><ul class=\"mbr-contacts__list\"><li><b>Facebook</b></li><li><b>Instagram</b></li><li><b>Whatsapp</b></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "ckmurshid2@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": false,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
             }
           },
-          "text1": "<p><strong>Address</strong></p><p><span style=\"font-size: 0.875rem;\">Taliparamba, Kannur</span></p><p><br><br>\n<strong>Contacts</strong><br>\nEmail: higmentors@gmail.com<br>\nPhone : &nbsp;+91 7592007679</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: &nbsp;+91 9810163896<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;: +91 9633975708&nbsp;&nbsp;&nbsp;&nbsp;</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;: +91 9747270222</p><p><br></p><p><br></p>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Social</strong></p><ul><li><a class=\"text-white\" href=\"https://www.facebook.com/higmentors\">Facebook</a></li><li><a href=\"https://www.instagram.com/hig_official_\" target=\"_blank\" class=\"text-white\">Instagram</a></li><li><a href=\"https://wa.me/+919633975708\" class=\"text-white\">WhatsApp</a></li></ul>",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-z"
+          "_name": "contacts4",
+          "_anchor": "contacts4-1v"
         }
       ]
     },
@@ -595,11 +624,11 @@
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
-            "bgColor": "#ffffff",
+            "transparent": true,
+            "bgColor": "#0ba7a4",
             "fontSize": "0.95",
             "fontName": {},
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page1.html\">Home</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Who we are</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Vision</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\" aria-expanded=\"false\">Mission</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Services</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Student</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">For class 9-10</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"page1.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">For class 11-12</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Study @ Central \n<br>university admission \n<br>programs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Overseas application \n<br>programs</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Study @Institutes of \n<br>eminence/National \n<br>importance</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Skill developments \n<br>prgrms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Study @State \n<br>universities/colleges</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">For graduates</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Career mentoring</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Creer Assessments</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Personalized career reports</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Study effectiveness counceling</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Career publications</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">School/Colleges</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page2.html\" aria-expanded=\"false\" target=\"_blank\">Professionals</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" target=\"_blank\">Testimonials</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" target=\"_blank\">Career dictionary</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\" target=\"_blank\">Gallery</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"tel:+917592007679\">Call Us Now</a></li>",
