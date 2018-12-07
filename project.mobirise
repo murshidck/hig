@@ -27,7 +27,7 @@
       ]
     },
     "versionFirst": "4.4.1",
-    "uniqCompNum": 68,
+    "uniqCompNum": 69,
     "versionPublish": "4.4.1",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -463,7 +463,12 @@
             "Theme"
           ],
           "_name": "contacts4",
-          "_anchor": "contacts4-1v"
+          "_anchor": "contacts4-1v",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
