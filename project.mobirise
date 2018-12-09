@@ -187,7 +187,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "<br><br><br>Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Call Us Now</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"tel:+917592007679\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>Call Us Now</a>",
                 "overlayOpacity": "0.6"
               }
             ]
@@ -433,7 +433,7 @@
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
           "text1": "<strong>Address</strong><br><strong><br></strong>Taliparamba, Kannur<br><br><br>\n<strong>Contacts</strong><br>Email: higmentors@gmail.com\n<br>Phone :  +91 7592007679\n<br>             :  +91 9810163896\n<br>             : +91 9633975708    \n<br>             : +91 9747270222<br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Social</strong></p><ul class=\"mbr-contacts__list\"><li><b>Facebook</b></li><li><b>Instagram</b></li><li><b>Whatsapp</b></li></ul>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Social</strong></p><ul class=\"mbr-contacts__list\"><li><b><a href=\"https://fb.com/higmentors\">Facebook</a></b></li><li><b><a href=\"https://instagram.com/higmentors\">Instagram</a></b></li><li><b><a href=\"https://api.whatsapp.com/send?phone=919633975708 \">Whatsapp</a></b></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "ckmurshid2@gmail.com",
